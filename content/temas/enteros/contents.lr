@@ -1,0 +1,14 @@
+_model: math
+---
+title: Números Enteros
+---
+body:
+
+#### markd ####
+contenido:
+
+#Numeros Enteros
+
+Esto es texto. Y lo que sigue definitivamente no tiene mucho que ver con los simples enteros:
+#### mathjax ####
+matematicas: `sum_(i=1)^n i^3=((n(n+1))/2)^2`

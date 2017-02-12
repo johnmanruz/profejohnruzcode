@@ -1,5 +1,10 @@
+ 
 {% extends "layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  {{ this.body }}
+<!-- /mathbody--> 
+	{% for blk in this.body.blocks %}
+		{{ blk }}
+	{% endfor %}
+<!-- /mathbody--> 
 {% endblock %}

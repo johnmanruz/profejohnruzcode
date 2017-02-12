@@ -1,2 +1,5 @@
 [project]
 name = profejohnruz
+
+[servers.production]
+target = ghpages+https://johnmanruz/johnmanruz.github.io

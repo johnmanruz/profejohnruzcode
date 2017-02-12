@@ -7,10 +7,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>{% block title %}Welcome{% endblock %}</title>
-    <link href="{{ '/css/bootstrap.min.css'|url }}" rel="stylesheet"><!-- Bootstrap Core CSS -->
+    <title>Temas</title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet"><!-- Bootstrap Core CSS -->
     <!-- Custom CSS css/simple-sidebar.css-->
-    <link href="{{ '/css/simple-sidebar.css'|url }}" rel="stylesheet">
+    <link href="../css/simple-sidebar.css" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -23,10 +23,14 @@
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
-                <li class="sidebar-brand"><a href="{{ '/'|url }}">Pr`sigma`f`epsilon` J`sigma`hn `RR`uz</a></li>
-                {% for href, title in [['/blog', 'Blog'], ['/temas', 'Temas'], ['/quien', 'Quien Soy']] %}
-                    <li{% if this.is_child_of(href) %} class="active"{% endif%}><a href="{{ href|url }}">{{ title }}</a></li>
-                {% endfor %}
+                <li class="sidebar-brand"><a href="../">Pr`sigma`f`epsilon` J`sigma`hn `RR`uz</a></li>
+                
+                    <li><a href="../blog/">Blog</a></li>
+                
+                    <li class="active"><a href="../temas/">Temas</a></li>
+                
+                    <li><a href="../quien/">Quien Soy</a></li>
+                
             </ul>
         </div>
         <!-- /#sidebar-wrapper -->
@@ -35,9 +39,13 @@
         <div id="page-content-wrapper">
             <div class="container-fluid">
                 <div class="row">
-                  <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Menú</a>
                     <div class="col-lg-12">
-                        {% block body %}{% endblock %}
+                        
+  <h1>Temas</h1>
+  <p>Mira los temas: :( Lo siento aún no hay ninguno.</p>
+
+
+                        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
                     </div>
                 </div>
             </div>
@@ -48,10 +56,10 @@
     <!-- /#wrapper -->
 
     <!-- jQuery -->
-    <script src="{{'/js/jquery.js'|url}}"></script>
+    <script src="../js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="{{'/js/bootstrap.min.js'|url}}"></script>
+    <script src="../js/bootstrap.min.js"></script>
 
     <!-- MathJax -->
     <script type="text/javascript" async  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"></script>
