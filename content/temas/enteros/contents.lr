@@ -7,8 +7,13 @@ body:
 #### markd ####
 contenido:
 
-#Numeros Enteros
+#Los números enteros
 
+
+Son un conjunto numérico que contiene los números naturales, sus inversos aditivos y el cero. Los enteros negativos, como −1 o −3 (se leen «menos uno», «menos tres», etc.), son menores que todos los enteros positivos (1, 2, ...) y que el cero.
 Esto es texto. Y lo que sigue definitivamente no tiene mucho que ver con los simples enteros:
-#### mathjax ####
-matematicas: `sum_(i=1)^n i^3=((n(n+1))/2)^2`
+
+##Suma de enteros
+ La suma de enteros ... etc.
+
+* <span>`5+5=10`</span>
