@@ -22,6 +22,7 @@ El valor absoluto de un número b es la distancia que hay entre el número b y e
  Para la suma y resta de números enteros se tendrán encuenta dos situaciones.
 
 Primera situación
+
 Si los signos de los numeros a sumar son iguales, entonces se realiza una suma y al resultado de la suma se le deja el mismo signo de los número sumados.
 
 Ejemplos
@@ -32,3 +33,23 @@ El signo del 5 es más (cuando el primer número de una expresión es positivo n
 * <span>`- 6 - 9=-15`</span>
 
 El signo del 6 es menos , el signo del 9 también es menos, los signos son iguales, por lo tanto se realiza una suma entre los dos números, el resultado de la suma es 15 y como el 6 y el 9 son negativos, al resultado le que da el mismo signo que tienen el 6 y el 9, es decir, menos, por lo tanto el resultado es -15.   
+
+Segunda situación
+
+Si los signos de los numeros son diferentes, entonces se realiza una resta y al resultado de la resta se le coloca el signo del número que tenga mayor valor absoluto.
+
+Ejemplos
+* <span>`7 - 9=-2`</span>
+
+El signo del 7 es más (cuando el primer número de una expresión es positivo no se le coloca el signo más), el signo del 9 es menos, por lo tanto se realiza una resta entre los dos números, el resultado de la resta es 2 y como el 9 tiene mayor valor absoluto que el 7 al resultado le que da el signo que tienen el 9, es decir, menos. 
+
+* <span>`- 8 + 11= 3`</span>
+
+El signo del 8 es menos , el signo del 11 es más, los signos son diferentes, por lo tanto se realiza una resta entre los dos números, el resultado de la resta es 3 y como el 11 tiene mayor valor absoluto que el 8, al resultado le que da el signo que tiene el 11, es decir, más, por lo tanto el resultado es 3.
+
+##Ejercicios
+
+
+
+   
+
