@@ -18,6 +18,14 @@ Son los números que están a la misma distancia del cero pero tienen signos dif
 ##Valor Absoluto
 El valor absoluto de un número b es la distancia que hay entre el número b y el cero, se representa por |b|, de tal manera que |-b| = b 
 
+##Orden de los Números Enteros
+Los número enteros se pueden representar en una recta numérica y al ser representadas en una recta se puede establecer el orden que estos números tienen de menor a mayor o de mayor a menor. 
+
+Al comparar dos números en una recta numérica vertical, en mayor el entero que está más arriba.
+
+Al comparar dos números en una recta numérica horizontal, es mayor el número que se encuentra a la derecha del otro. 
+
+
 ##Suma y Resta de enteros
  Para la suma y resta de números enteros se tendrán encuenta dos situaciones.
 
@@ -49,7 +57,36 @@ El signo del 8 es menos , el signo del 11 es más, los signos son diferentes, po
 
 ##Ejercicios
 
+* <span>`-5 + 6`</span>
+* <span>`44 + -23`</span>
+* <span>`10 - 12`</span>
+* <span>`-7 - 15`</span>
+* <span>`4 + 9`</span>
 
+## Simplificación de Expresiones 
 
-   
+Para simplificar expresiones con número enteros debemos fijarnos si la expresion tiene parentesis o no, si la expresión tiene parentesis debemos realizar las operaciones dentro de parentesis primero y luego las restantes operaciones. Si la expresión no tiene parentesis, debemos agrupar los terminos semajantes, escribiendo los enteros positivos adelante y los enteros negativos atras.
 
+*Expresiones con parentesis
+<span>`(-9 + 15) - ( 7 - 3) + 2`</span> 
+       <span>`6        -        4    + 2`</span>
+                   <span>`2            + 2`</span>
+                                <span>`4`</span>
+
+* Expresiones sin parentesis
+<span>`5  - 9  + 2  - 7  + 4  - 8`</span>
+<span>`5 + 2 + 4 - 9 - 7 - 8`</span>
+        <span>`11       -     24`</span>
+                  <span>`-13`</span>
+
+##Ejercicios
+*<span>`(-8 + 5) - ( 5 - 9) + 7`</span>
+*<span>`-13 + (12 -  5) - 4`</span>
+*<span>`5 - 8 + ( -7 - 3) + 2`</span>
+*<span>`-4 + (-7 + 2) + 10`</span>
+*<span>`-18 + 25 - (-27 + 12) + 10`</span>
+*<span>`-4 + 7 + 2 - 10 + 5 - 8`</span>
+*<span>`-5 + 9 + 4 - 8 + 15 - 18`</span>
+*<span>`8 - 14 + 4 - 5 + 10 - 16`</span>
+*<span>`7 - 10 + 5 - 13 + 7 - 11`</span>
+*<span>`4 - 7 - 2 + 10 - 5 + 8`</span>
