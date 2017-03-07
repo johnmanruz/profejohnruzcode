@@ -9,7 +9,6 @@ contenido:
 
 #Los números enteros
 
-
 Son un conjunto numérico que está formado por la unión de los enteros positivos, los enteros negativos y el cero, donde los enteros positivos son los números naturales y los enteros negativos son los inversos aditivos de los enteros positivos. Los enteros negativos, como −2 o −5 son menores que todos los enteros positivos (1, 2, ...) y que el cero.
 
 ##Números Opuestos
@@ -18,7 +17,7 @@ Son los números que están a la misma distancia del cero pero tienen signos dif
 ##Valor Absoluto
 El valor absoluto de un número b es la distancia que hay entre el número b y el cero, se representa por |b|, de tal manera que |-b| = b 
 
-##Orden de los Números Enteros
+##[Orden de los Números Enteros](./orden-enteros/)
 Los número enteros se pueden representar en una recta numérica y al ser representadas en una recta se puede establecer el orden que estos números tienen de menor a mayor o de mayor a menor. 
 
 Al comparar dos números en una recta numérica vertical, en mayor el entero que está más arriba.
@@ -26,7 +25,7 @@ Al comparar dos números en una recta numérica vertical, en mayor el entero que
 Al comparar dos números en una recta numérica horizontal, es mayor el número que se encuentra a la derecha del otro. 
 
 
-##Suma y Resta de enteros
+##[Suma y Resta de enteros](./suma-y-resta-de-enteros/)
  Para la suma y resta de números enteros se tendrán encuenta dos situaciones.
 
 Primera situación
