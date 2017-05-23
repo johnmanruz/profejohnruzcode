@@ -4,13 +4,6 @@ title: Números Racionales
 ---
 body:
 
-<style>
-.body{
-background-color color: green;
-}
-
-</style>
-
 # Números Racionales
 Los números racionales son el conjunto de números que se puede representar como un cociente, como una división o fracción, tenemos que entre los números racionales se encuentran los números fraccionarios, los número enteros, los decimales finitos y los decimales periódicos; al conjunto de números racionales se les representa por la letra Q.
 
@@ -18,21 +11,21 @@ Los números racionales son el conjunto de números que se puede representar com
 
 <ul>1. Números fraccionarios o Fracciones</ul>
 
-5/4, ½, ¾ 11/23, 9/15
+<span>5/4, ½, ¾ 11/23, 9/15</span>
 
-##2. Números Enteros
+<ul>2. Números Enteros</ul>
 
 El 8 es un número racional porque lo puedo expresar como un cociente o fracción, así: 8/1
 
 El -5 es un número racional porque lo puedo expresar como un cociente o fracción, así: -5/1
 
-##3. Decimales finitos
+<ul>3. Decimales finitos</ul>
 
 El 0,25 es un número racional porque lo puedo expresar como un cociente o fracción, así 0,25 = ¼
 
-##4. Decimales periódicos
+<ul>4. Decimales periódicos</ul>
  
-El 0,333333333 es un número racional porque lo puedo expresar como un cociente o fracción, así 0,333333333 = 1/3
+El <span>0,333333333</span> es un número racional porque lo puedo expresar como un cociente o fracción, así 0,333333333 = 1/3
 
 #Operaciones con Número Racionales
 
@@ -59,7 +52,7 @@ En este caso el resultado pudo ser simplificado, dividiendo el numerador y el de
 #División de Números Racionales
 Para dividir los números racionales, tomamos el numerador de la primera fracción y se lo multiplica por el denominador de la segunda fracción y este resultado será utilizado como numerador; a continuación se toma el denominador de la primera fracción y se lo multiplica por el numerador de la segunda fracción, y a ese resultado se lo ubica como denominador. Por lo tanto en el caso de la división, el orden de los cocientes si altera el resultado, veamos el siguiente ejemplo:
 
-5/4÷2/3=5×3÷4×2=15/8
+<span>5/4÷2/3=5×3÷4×2=15/8</span>
 
 Como se puede notar, para dividir los números racionales, se debe multiplicar en cruz, tomando en cuenta que el numerador y el denominador de la primera fracción no cambia de orden, pero los de la segunda fracción si lo hacen para lograr el resultado final.
 
