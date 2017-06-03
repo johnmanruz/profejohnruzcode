@@ -1,0 +1,60 @@
+_model: page
+---
+title: Números Racionales
+---
+body:
+
+# Números Racionales
+Los números racionales son el conjunto de números que se puede representar como un cociente, como una división o fracción, tenemos que entre los números racionales se encuentran los números fraccionarios, los número enteros, los decimales finitos y los decimales periódicos; al conjunto de números racionales se les representa por la letra Q.
+
+#Ejemplos de Números Racionales
+
+<ul>1. Números fraccionarios o Fracciones</ul>
+
+<span>5/4, ½, ¾ 11/23, 9/15</span>
+
+<ul>2. Números Enteros</ul>
+
+El 8 es un número racional porque lo puedo expresar como un cociente o fracción, así: 8/1
+
+El -5 es un número racional porque lo puedo expresar como un cociente o fracción, así: -5/1
+
+<ul>3. Decimales finitos</ul>
+
+El 0,25 es un número racional porque lo puedo expresar como un cociente o fracción, así 0,25 = ¼
+
+<ul>4. Decimales periódicos</ul>
+ 
+El <span>0,333333333</span> es un número racional porque lo puedo expresar como un cociente o fracción, así 0,333333333 = 1/3
+
+#Operaciones con Número Racionales
+
+#Suma y Resta de Números Racionales
+Para realizar la suma y resta de números racionales nos podemos encontrar con dos casos diferentes, el primero es cuando las fracciones tienen los denominadores iguales y el otro es cuando las dos fracciones tienen diferente denominador. 
+Cuando resolvemos la suma y resta de números racionales con igual denominador, simplemente se mantiene el mismo denominador, es decir el número de abajo; y sumamos o restamos los numeradores, es decir los números de arriba; dependiendo de los signos de las fracciones:
+
+4/5+3/5 = (4+3)/5 = 7/5
+
+Cuando resolvemos sumas o restas de números racionales que tienen denominadores de distinto valor, hay que hallar el mínimo común múltiplo de los 
+denominadores, la manera más sencilla de hacerlo en todas las situaciones es multiplicar los denominadores y luego se multiplica en cruz, el numerador de la primera fracción por el denominador de la segunda fracción, más o menos el denominador de la primera fracción por el numerador de la segunda fracción, así:
+
+1/4+6/5 = (1x5) + (4x6)/(4 x 5) = (5+24)/20=29/20
+
+Si la fracción resultante es reducible, hay que simplificar hasta que encontremos una fracción irreducible.
+
+#Multiplicación de Números Racionales
+En la multiplicación entre fracciones se multiplican los numeradores de todos los factores y a continuación el producto resultante se lo utiliza como numerador de la nueva fracción, luego se multiplican los denominadores y al resultado se lo ubica como denominador de la nueva fracción, así:
+
+4/3 × 5/6 = 4×5 / 3×6 = 20/18 = 10/9
+
+En este caso el resultado pudo ser simplificado, dividiendo el numerador y el denominador para el mismo número hasta obtener el mínimo número entero en los dos cocientes.
+
+#División de Números Racionales
+Para dividir los números racionales, tomamos el numerador de la primera fracción y se lo multiplica por el denominador de la segunda fracción y este resultado será utilizado como numerador; a continuación se toma el denominador de la primera fracción y se lo multiplica por el numerador de la segunda fracción, y a ese resultado se lo ubica como denominador. Por lo tanto en el caso de la división, el orden de los cocientes si altera el resultado, veamos el siguiente ejemplo:
+
+<span>5/4÷2/3=5×3÷4×2=15/8</span>
+
+Como se puede notar, para dividir los números racionales, se debe multiplicar en cruz, tomando en cuenta que el numerador y el denominador de la primera fracción no cambia de orden, pero los de la segunda fracción si lo hacen para lograr el resultado final.
+
+Otra forma de realizar la división de fraccionarios es colocando la primera fracción encima de la segunda fracción y colocando una línea de división entre las dos fracciones, luego se multiplican los números de los extremos, el resultado se coloca como numerador de la fracción resultante, luego se multiplican los números del medio y el producto se coloca como denominador, por último se simplifica hasta que la fracción no se pueda reducir más. Ejemplo:
+

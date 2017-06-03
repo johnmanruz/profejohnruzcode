@@ -1,0 +1,105 @@
+_model: page
+---
+title: Numeros Enteros
+---
+body:
+
+#Los números enteros
+
+Son un conjunto numérico que está formado por la unión de los enteros positivos, los enteros negativos y el cero, donde los enteros positivos son los números naturales y los enteros negativos son los inversos aditivos de los enteros positivos. Los enteros negativos, como −2 o −5 son menores que todos los enteros positivos (1, 2, ...) y que el cero.
+
+##Números Opuestos
+Son los números que están a la misma distancia del cero pero tienen signos diferentes, por ejemplo el 4 y -4; de tal forma que el opuesto de -5 es 5, el opuesto de -9 es 9, el opuesto de 11 es -11.
+
+##Valor Absoluto
+El valor absoluto de un número b es la distancia que hay entre el número b y el cero, se representa por |b|, de tal manera que |-b| = b 
+
+##[Orden de los Números Enteros](./orden-enteros/)
+Los número enteros se pueden representar en una recta numérica y al ser representadas en una recta se puede establecer el orden que estos números tienen de menor a mayor o de mayor a menor. 
+
+Al comparar dos números en una recta numérica vertical, en mayor el entero que está más arriba.
+
+Al comparar dos números en una recta numérica horizontal, es mayor el número que se encuentra a la derecha del otro. 
+
+
+##[Suma y Resta de enteros](./suma-y-resta-de-enteros/)
+ Para la suma y resta de números enteros se tendrán encuenta dos situaciones.
+
+Primera situación
+
+Si los signos de los numeros a sumar son iguales, entonces se realiza una suma y al resultado de la suma se le deja el mismo signo de los número sumados.
+
+Ejemplos
+* <span>`5+7=12`</span>
+
+El signo del 5 es más (cuando el primer número de una expresión es positivo no se le coloca el signo más), el signo del 7 es más, por lo tanto se realiza una suma entre los dos números, el resultado de la suma es 12 y como el 5 y el 7 son positivos al resultado le que da el mismo signo que tienen el 5 y el 7, es decir, más. 
+
+* <span>`- 6 - 9=-15`</span>
+
+El signo del 6 es menos , el signo del 9 también es menos, los signos son iguales, por lo tanto se realiza una suma entre los dos números, el resultado de la suma es 15 y como el 6 y el 9 son negativos, al resultado le que da el mismo signo que tienen el 6 y el 9, es decir, menos, por lo tanto el resultado es -15.   
+
+Segunda situación
+
+Si los signos de los numeros son diferentes, entonces se realiza una resta y al resultado de la resta se le coloca el signo del número que tenga mayor valor absoluto.
+
+Ejemplos
+* <span>`7 - 9=-2`</span>
+
+El signo del 7 es más (cuando el primer número de una expresión es positivo no se le coloca el signo más), el signo del 9 es menos, por lo tanto se realiza una resta entre los dos números, el resultado de la resta es 2 y como el 9 tiene mayor valor absoluto que el 7 al resultado le que da el signo que tienen el 9, es decir, menos. 
+
+* <span>`- 8 + 11= 3`</span>
+
+El signo del 8 es menos , el signo del 11 es más, los signos son diferentes, por lo tanto se realiza una resta entre los dos números, el resultado de la resta es 3 y como el 11 tiene mayor valor absoluto que el 8, al resultado le que da el signo que tiene el 11, es decir, más, por lo tanto el resultado es 3.
+
+##Ejercicios
+
+* <span>`-5 + 6`</span>
+* <span>`44 + -23`</span>
+* <span>`10 - 12`</span>
+* <span>`-7 - 15`</span>
+* <span>`4 + 9`</span>
+
+## Simplificación de Expresiones 
+
+Para simplificar expresiones con número enteros debemos fijarnos si la expresion tiene parentesis o no, si la expresión tiene parentesis debemos realizar las operaciones dentro de parentesis primero y luego las restantes operaciones. Si la expresión no tiene parentesis, debemos agrupar los terminos semajantes, escribiendo los enteros positivos adelante y los enteros negativos atras.
+
+* Expresiones con parentesis
+
+<span>`(-9 + 15) - ( 7 - 3) + 2`</span>
+
+<span>`6 - 4 + 2`</span>
+
+<span>`2 + 2`</span>
+
+<span>`4`</span>
+
+* Expresiones sin parentesis
+
+<span>`5  - 9  + 2  - 7  + 4  - 8`</span>
+
+<span>`5 + 2 + 4 - 9 - 7 - 8`</span>
+
+<span>`11 - 24`</span>
+
+<span>`-13`</span>
+
+##Ejercicios
+* <span>`(-8 + 5) - ( 5 - 9) + 7`</span>
+
+* <span>`-13 + (12 -  5) - 4`</span>
+
+* <span>`5 - 8 + ( -7 - 3) + 2`</span>
+
+* <span>`-4 + (-7 + 2) + 10`</span>
+
+* <span>`-18 + 25 - (-27 + 12) + 10`</span>
+
+* <span>`-4 + 7 + 2 - 10 + 5 - 8`</span>
+
+* <span>`-5 + 9 + 4 - 8 + 15 - 18`</span>
+
+* <span>`8 - 14 + 4 - 5 + 10 - 16`</span>
+
+* <span>`7 - 10 + 5 - 13 + 7 - 11`</span>
+
+* <span>`4 - 7 - 2 + 10 - 5 + 8`</span>
